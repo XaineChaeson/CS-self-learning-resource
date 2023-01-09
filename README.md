@@ -1,6 +1,6 @@
 # CS-self-learning-resource
 收录一些很不错的学习资源。  
-Collection of some very good learning resources.
+Collection of some good learning resources.
 
 # 网站
 https://missing.csail.mit.edu/
