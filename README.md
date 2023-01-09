@@ -1,5 +1,5 @@
 # CS-self-learning-resource
-收录一些很不错的学习资源。
+收录一些很不错的学习资源。  
 Collection of some very good learning resources.
 
 # 网站
@@ -17,3 +17,7 @@ Schedule
 1/28/20: Security and Cryptography  
 1/29/20: Potpourri  
 1/30/20: Q&A  
+
+
+https://csdiy.wiki/  
+CS自学指南，来自北大的学长，汇集了很多不同领域的课程，也有很多计算机路线上的指导
