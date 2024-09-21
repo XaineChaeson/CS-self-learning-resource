@@ -21,3 +21,8 @@ Schedule
 
 https://csdiy.wiki/  
 CS自学指南，来自北大的学长，汇集了很多不同领域的课程，也有很多计算机路线上的指导
+
+https://github.com/krahets/hello-algo
+《hello-algo》算法入门书，口碑很好。剑指OFFER作者撰写
+
+
